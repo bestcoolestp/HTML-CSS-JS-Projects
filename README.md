@@ -5,7 +5,7 @@
 ![image](https://github.com/bestcoolestp/HTML-CSS-JS-Projects/assets/108534975/fa5e841c-2620-4cc5-936f-64473e459b5b)
 3.English Dictionary
 ![image](https://github.com/bestcoolestp/HTML-CSS-JS-Projects/assets/108534975/eb4f6c5e-2c6a-4ced-a16c-bfa8d961ea60)
-4.Simp quote generator
+4.Simple quote generator
 ![image](https://github.com/bestcoolestp/HTML-CSS-JS-Projects/assets/108534975/a6606712-1cca-4462-8a66-ff4a56a96294)
 
 
