@@ -9,6 +9,9 @@
 ![image](https://github.com/bestcoolestp/HTML-CSS-JS-Projects/assets/108534975/a6606712-1cca-4462-8a66-ff4a56a96294)
 5.Random animation pics generator
 ![image](https://github.com/bestcoolestp/HTML-CSS-JS-Projects/assets/108534975/a93fd7a3-5d00-4cce-aee8-f82bda89025e)
+6.Random Emoji
+![image](https://github.com/bestcoolestp/HTML-CSS-JS-Projects/assets/108534975/1cce4190-e6ee-4bbd-89b3-4644bc7a6267)
+
 
 
 
