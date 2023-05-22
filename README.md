@@ -15,6 +15,9 @@
 ![image](https://github.com/bestcoolestp/HTML-CSS-JS-Projects/assets/108534975/7f22bf31-1779-4039-8d88-9c7c547324ce)
 8.BMI calculator
 ![image](https://github.com/bestcoolestp/HTML-CSS-JS-Projects/assets/108534975/9afa39f5-8fdb-475b-aca6-fe05b41ff24b)
+9.Note App
+![image](https://github.com/bestcoolestp/HTML-CSS-JS-Projects/assets/108534975/ee3ba39a-366c-4a03-ad3d-d43b628dd5c3)
+
 
 
 
