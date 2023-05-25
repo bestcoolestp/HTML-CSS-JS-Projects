@@ -19,6 +19,8 @@
 ![image](https://github.com/bestcoolestp/HTML-CSS-JS-Projects/assets/108534975/ee3ba39a-366c-4a03-ad3d-d43b628dd5c3)
 10.Loan Calculator
 ![image](https://github.com/bestcoolestp/HTML-CSS-JS-Projects/assets/108534975/cbfe68e0-96d7-40ef-938b-09329c99b722)
+11.Exchange Rate Calculator
+![image](https://github.com/bestcoolestp/HTML-CSS-JS-Projects/assets/108534975/d9a144cc-07c3-4378-b07b-47b8f157ee39)
 
 
 
