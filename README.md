@@ -21,6 +21,9 @@
 ![image](https://github.com/bestcoolestp/HTML-CSS-JS-Projects/assets/108534975/cbfe68e0-96d7-40ef-938b-09329c99b722)
 11.Exchange Rate Calculator
 ![image](https://github.com/bestcoolestp/HTML-CSS-JS-Projects/assets/108534975/d9a144cc-07c3-4378-b07b-47b8f157ee39)
+12.Pounds(lbs) to Kg
+![image](https://github.com/bestcoolestp/HTML-CSS-JS-Projects/assets/108534975/e1e3c5e4-f59b-48e0-943d-b087d906c33a)
+
 
 
 
